@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, Modal, TouchableOpacity } from 'react-native';
 import styles from '../styles/componentStyles/delete.style';
 
-const DeletePopup = ({ visible, onConfirm, onCancel }) => (
+const Delete = ({ visible, onConfirm, onCancel }) => (
   <Modal transparent visible={visible} animationType="fade">
     <View style={styles.overlay}>
       <View style={styles.popup}>
@@ -20,4 +20,4 @@ const DeletePopup = ({ visible, onConfirm, onCancel }) => (
   </Modal>
 );
 
-export default DeletePopup;
+export default Delete;
