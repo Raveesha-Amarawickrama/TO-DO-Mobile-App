@@ -8,6 +8,9 @@ This app helps users easily manage daily tasks with features like adding, deleti
 
 ---
 
+Figma link: https://www.figma.com/design/PKs24Vg0MRIUG7Nr3OWvuC/Untitled?node-id=0-1&t=8hmEsIxtetkESGhn-1
+video:
+
 ## ✅ Features
 
 - ✏️ **Add Tasks** – Add new to-dos with a simple input
