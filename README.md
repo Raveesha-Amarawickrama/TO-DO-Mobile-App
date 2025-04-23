@@ -9,7 +9,8 @@ This app helps users easily manage daily tasks with features like adding, deleti
 ---
 
 Figma link: https://www.figma.com/design/PKs24Vg0MRIUG7Nr3OWvuC/Untitled?node-id=0-1&t=8hmEsIxtetkESGhn-1
-video:
+video:🎥 [Watch Demo Video](assets/demo.mp4)
+
 
 ## ✅ Features
 
